@@ -1,1 +1,1 @@
-Creación de una app de prueba con Vue.js
+Creación de una aplicación de prueba con Vue.js
