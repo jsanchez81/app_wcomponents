@@ -1,1 +1,1 @@
-# app_wcomponents
+Creación de una app de prueba con Vue.js
